@@ -1,0 +1,17 @@
+body
+{
+	margin: 0;
+}
+
+.wrapper 
+{
+	width: 600px;
+	height: 600px;
+	background-color: #ff9999;
+	margin: 0 auto;
+}
+
+.clip-path
+{
+	-webkit-clip-path: circle(15.0%);	
+} 
